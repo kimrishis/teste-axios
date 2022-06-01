@@ -4,6 +4,7 @@
 
 ## para executar 
 
-´´´
+
+```sh
 node index.js
-´´´
+```
